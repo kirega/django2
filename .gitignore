@@ -24,7 +24,7 @@
 ######################
 *.log
 *.sql
-*.sqlite
+*.sqlite3
 
 # OS generated files #
 ######################
@@ -38,3 +38,5 @@ Thumbs.db
 
 #Virtual Enviroment
 env_django2/
+.vscode/
+*.pyc
